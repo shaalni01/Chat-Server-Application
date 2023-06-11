@@ -32,5 +32,23 @@ The sample command that can be used in the command prompt where the client is in
 
 The sample screenshot for the above command is:
 
+<img src= "https://github.com/shaalni01/Chat-Server-Application/blob/main/assets/Direct%20Message%20Execution.JPG"
+/>
+
+/bm: bm stands for the broadcast message. This command can be used to send a message to all the clients that are connected to the chat server application.
+
+The structure of the command is:
+/bm [the message that must be sent]
+
+The sample command that can be used in the command prompt where the client is initiated:
+/bm “hello from the user1 to user2”
+
+The sample screenshot for the above command is:
+
+<img src="https://github.com/shaalni01/Chat-Server-Application/blob/main/assets/Broadcast%20Message%20Execution.JPG" />
+
+
+
+
 
 
